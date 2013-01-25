@@ -9,4 +9,4 @@ A Redmine Plugin to get the total Estimated Hours of a Project.
     cd plugins
     git clone git://github.com/mralexandernickel/redmine_total_estimated_hours.git
 
-After that just restart Redmine, and you're done!
+After that just restart Redmine, and you're done! The Estimated Hours should be visible in the Sidebar of each Projects Overview-Page.
